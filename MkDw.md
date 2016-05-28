@@ -11,8 +11,8 @@
 3.***Aerials***
 
 >You can follow this link below to watch their videos!!
->[Chop Suey](https://www.youtube.com/watch?v=CSvFpBOe8eyz)
->[Toxicity](https://www.youtube.com/watch?v=iywaBOMvYLI)
+>[Chop Suey](https://www.youtube.com/watch?v=CSvFpBOe8eyz) / 
+>[Toxicity](https://www.youtube.com/watch?v=iywaBOMvYLI) / 
 >[Aerials](https://www.youtube.com/watch?v=L-iepu3EtyE)
 
 ---
