@@ -18,6 +18,7 @@
 ![Album Cover Image](http://ecx.images-amazon.com/images/I/91fUlWjRAgL._SL1500_.jpg)
 
 *System of a Down Members
+
 |Member|---|
 |-------------|---|
 |Serj Tankian|---|
