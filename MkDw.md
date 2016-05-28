@@ -18,13 +18,13 @@
 ![Album Cover Image](http://ecx.images-amazon.com/images/I/91fUlWjRAgL._SL1500_.jpg)
 
 *System of a Down Members
-|Member|---|
-|-------------|---|
-|Serj Tankian|---|
-|Daron Malakian|---|
-|Shavo Odadjian|---|
-|John Dolmayan|---|
-|Ontronik Khachaturian|---|
+|Member| ---|
+|-------------| ---|
+|Serj Tankian| ---|
+|Daron Malakian| ---|
+|Shavo Odadjian| ---|
+|John Dolmayan| ---|
+|Ontronik Khachaturian| ---|
 
 *You can find more videos at [Youtube][1].
 
@@ -32,5 +32,5 @@
 
 
 
-[1] : https://www.youtube.com/ " Youtube"
+[1] : https://www.youtube.com/ "Youtube"
 
