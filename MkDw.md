@@ -19,13 +19,14 @@
 
 *System of a Down Members
 
-|Member|---|
-|-------------|---|
-|Serj Tankian|---|
-|Daron Malakian|---|
-|Shavo Odadjian|---|
-|John Dolmayan|---|
-|Ontronik Khachaturian|---|
+|        Member       |
+|---------------------|
+|Serj Tankian         |
+|Daron Malakian       |
+|Shavo Odadjian       |
+|John Dolmayan        |
+|Ontronik Khachaturian|
+>>>>>>> 92bbcd2bc982cedea0b7c1d309111141d8635e3b
 
 *You can find more videos at [Youtube][1].
 
@@ -33,7 +34,7 @@
 
 
 
-[1] : https://www.youtube.com/ " Youtube"
+[1] : https://www.youtube.com/ "Youtube"
 
 Wow it's good
 
