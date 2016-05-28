@@ -31,7 +31,7 @@
 *You can find more videos at [Youtube][1].
 
 
-    \'printf("Self righteous suicide");\'
+    \printf("Self righteous suicide");\
 
 
 [1]:https://www.youtube.com/
