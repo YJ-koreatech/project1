@@ -2,7 +2,7 @@
 -------------
 ##Computer Science and Engineering
 
-*Subjects
+* Subjects
 1. Computer system basic design
 2. C programming
 3. JAVA programming
