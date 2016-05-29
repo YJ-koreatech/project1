@@ -1,4 +1,4 @@
-#Koreatech
+#Koreatech-KYJ
 -------------
 ##Computer Science and Engineering
 
