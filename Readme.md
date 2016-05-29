@@ -3,9 +3,9 @@
 ##Computer Science and Engineering
 
 * Subjects
-1. Computer system basic design
-2. C programming
-3. JAVA programming
+ 1. Computer system basic design
+ 2. C programming
+ 3. JAVA programming
 
 *This is test*
 **This is bold**
